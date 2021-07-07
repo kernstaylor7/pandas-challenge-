@@ -1,1 +1,1 @@
-# pandas-challenge- Utilizing pandas with an emphasis on matplotlib to analyze data of mice in a scientific study.
+# pandas-challenge- Utilizing pandas tools such as matplotlib to analyze data of mice in a scientific study.
